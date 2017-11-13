@@ -1,14 +1,18 @@
+import codecs
+
 # Estoy abriendo el archivo y metiendolo en la variable 'archivo'
 archivo = open("Archivo.txt")
+archivoNuevo = codecs.open("ArchivoNuevo.txt", "w", "utf-8")
 
 # Por cada linea en el archivo.
 for linea in archivo:
+    # Si es T, escribe Aplicativa, etc etc..
     if linea.strip()[-1] == "T":
-        print("Aplicativa")
+        archivoNuevo.write("Aplicativa \n")
     elif linea.strip()[-1] == "G":
-        print("General")
+        archivoNuevo.write("General \n")
     elif linea.strip()[-1] == "S":
-        print("Semi-Flexible")
+        archivoNuevo.write("Semi-Flexible \n")
     else:
-        print("N/A")
+        archivoNuevo.write("N/A \n")
 archivo.close()
