@@ -2,25 +2,26 @@ import tkinter.filedialog as Tkinter
 import os.path
 import codecs as loscodecs
 
-'''Stubs'''
-
 buscarProgramas = 'setNoServicioCics(obtenerNombreServicio("'
 
-archivos = Tkinter.askopenfilenames(initialdir = "C:/Users/IBM_ADMIN/Desktop/INFOPRE/PreINFO-27Abril2016/src/gnp/to/servidor/", title = "Archivos java")
-archivoNuevo = "C:/Users/IBM_ADMIN/Desktop/archivosLaYessenia/stubsUsanProgramas.txt"
+archivos = Tkinter.askopenfilenames(initialdir = "C:/Users/mainUser/Desktop/to/servidor/", title = "Archivos java")
+archivoNuevo = "C:/Users/mainUser/Desktop/nuevos/stubsUsanProgramas.txt"
 archivoNuevoFinal = open(archivoNuevo, "w+")
+
+print("Por cada Stub que hay aqui, se tienen los programas que se muestras abajo del mismo.", "\n")
+archivoNuevoFinal.write("Por cada Stub que hay aqui, se tienen los programas que se muestras abajo del mismo." + "\n")
 
 for individuales in archivos:
     archivo = loscodecs.open(individuales, "r")
-    print(os.path.basename(str(individuales)))
-    archivoNuevoFinal.write(os.path.basename(str(individuales)) + "\n")
+    print(os.path.basename(str(individuales[:-5])))
+    archivoNuevoFinal.write(os.path.basename(str(individuales[:-5])) + "\n")
 
     for linea in archivo:
         if buscarProgramas in linea:
             lineaStrip = linea.strip()
-            print("Programa: ", lineaStrip[41:49])
+            print(lineaStrip[41:49])
             archivoNuevoFinal.write("   " + lineaStrip[41:49] + "\n")
 
-    archivoNuevoFinal.write("\n" + "\n")
+    print("")
+    archivoNuevoFinal.write("\n")
     archivo.close()
-    print("\n")
