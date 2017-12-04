@@ -1,0 +1,276 @@
+Por cada Panel que hay aqui se imprimen sus stubs y sus ventanas respectivamente.
+ComponenteSerialPortListener
+
+TOBusquedaActualizacion
+
+TOBusquedaAutorizacion
+   Stub: Ktolvbac
+
+TOBusquedaAutorizacionDividendos
+   Stub: Ktolvbac
+
+TOBusquedaCBancario
+
+TOBusquedaCCoste
+
+TOBusquedaCobro
+   Ventana: TOVentanaGestionCobros
+
+TOBusquedaCuentas
+
+TOBusquedaDiasTC
+
+TOBusquedaLPago
+
+TOBusquedaMttoTransferencia
+
+TOBusquedaNumReintegro
+   Ventana: TOVentanaGestionReintegros
+   Stub: Ktolilre
+   Stub: Ktolvlre
+   Stub: TOCobros1Stub
+
+TOBusquedaReintegros
+   Stub: Ktolvbac
+
+TOBusquedaRemesaTr
+
+TOBusquedaTipoCambio
+
+TOBusquedaTransferencia
+
+TOBusquedaUsuario
+   Ventana: TODialogCodUsuAutorizado
+
+TOClaveCompetenciaLimitePago
+
+TOCodigoCentro
+
+TOCodigoRefer
+
+TOComponenteDivisas
+
+TOComponentePPA
+   Ventana: TONVentanaDatosOtrosPagos
+   Ventana: TOVentanaBusquedaPPA
+   Ventana: TOVentanaCobrosReintegros
+   Ventana: TOVentanaConsultaPPA
+   Ventana: TOVentanaTraspasoPPA
+   Stub: Ktolix01
+   Stub: Ktolvx01
+   Stub: Ktotrx01Stub
+
+TOComponenteSerialPort
+
+TOComponenteTipoCambio
+
+TOCriteriosCobros
+
+TOCriteriosFiguras
+
+TOCriteriosLGestionPagos
+
+TOCriteriosLGestionPagosCoReInt
+
+TOCriteriosOtrosC
+
+TOCriteriosTipologia
+
+TOFilaPago
+
+TOJDialogSeleccionTipoCambio
+   Stub: Ktoliltc
+   Stub: Ktolitip
+   Stub: Ktolvltc
+   Stub: Ktolvtip
+
+TOListaHistorico
+
+TOListaHistoricoPreA
+
+TOListaTransferencias
+
+TOListaTransferenciasRechazadas
+
+TONCalculaImpuestos
+
+TONComponenteCifraControl
+   Ventana: TONVentanaDatosOtrosCobros
+
+TONComponenteConceptos
+   Ventana: TONVentanaDatosOtrosPagos
+   Ventana: TONVentanaOtrosPagos
+   Stub: Ktolinoc
+   Stub: Ktolinpc
+   Stub: Ktolvnoc
+   Stub: Ktolvnpc
+   Stub: TOAdmConceptosStub
+
+TONDigitoVerificador
+
+TONPanelLiquidCorteCaja
+   Stub: Ktolincr
+   Stub: Ktolvncr
+   Stub: TNCorteCajaStub
+
+TONPanelLiquidCorteOficina
+   Stub: Ktolincr
+   Stub: Ktolvncr
+   Stub: TNCorteCajaStub
+
+TONPanelOtrosCobros1
+
+TONPanelOtrosCobros2
+
+TONPanelOtrosCobros4
+
+TONPanelOtrosCobros5
+
+TONPanelOtrosCobros6
+
+TONPanelOtrosCobros7
+
+TONPanelOtrosCobros9
+   Stub: Ktolicdv
+   Stub: Ktolvcdv
+   Stub: TNOtrosCobrosPagosStub
+
+TONPanelOtrosPagos1
+   Ventana: TONVentanaDatosOtrosPagos
+
+TONPanelOtrosPagos2
+   Ventana: TONVentanaDatosOtrosPagos
+
+TONPanelOtrosPagos3
+   Ventana: TONVentanaDatosOtrosPagos
+
+TONPanelOtrosPagos4
+   Ventana: TONVentanaDatosOtrosPagos
+
+TONPanelOtrosPagos5
+   Ventana: TONVentanaDatosOtrosPagos
+
+TONPanelOtrosPagos6
+   Ventana: TONVentanaDatosOtrosPagos
+
+TONPanelOtrosPagos7
+   Ventana: TONVentanaDatosOtrosPagos
+
+TONPanelOtrosPagos8
+   Stub: Ktolix08
+   Stub: Ktolvx08
+   Stub: Ktotrx01Stub
+
+TONPanelOtrosPagos9
+   Stub: Ktolicdv
+   Stub: Ktolvcdv
+   Stub: TNOtrosCobrosPagosStub
+
+TONPanelOtrosPagos10
+
+TOPanelCobrosIntermediarios
+   Stub: Ktolimci
+   Stub: Ktolvmci
+   Stub: Ktotrco3Stub
+
+TOPanelCobrosRea
+
+TOPanelCobrosReintegros
+   Ventana: TOVentanaCobrosReintegros
+   Ventana: TOVentanaGestionReintegros
+
+TOPanelCriteriosCEC
+
+TOPanelCriteriosMEC
+
+TOPanelCuenta
+   Ventana: TOVentanaPlanContable
+   Stub: Ktolil90
+   Stub: Ktolvl90
+   Stub: Ktotr090Stub
+
+TOPanelDeducible
+
+TOPanelFacturaMinuta
+
+TOPanelGestionCompetenciasLimitePago
+
+TOPanelMantenimientoTC
+
+TOPanelMEC
+
+TOPanelMedioPago
+
+TOPanelNota1ActualizacionPago
+
+TOPanelNota2ActualizacionPago
+
+TOPanelNotaAnulacionCobroReintegro
+
+TOPanelNotaRango
+
+TOPanelNotaTextoLibrePagoCobro
+
+TOPanelNotaTextoRemesa
+
+TOPanelNotaTextoTransferencia
+
+TOPanelOtrosCobros
+
+TOPanelSolicitudChequeDivisas
+
+TOPendientes
+
+TOPeriodo
+
+TORangoMoneda
+
+TORangoPeriodos
+
+TORegistroMedCobro
+
+TORegistrosPago
+
+TORelacion
+
+TOTapPanelConceptosDivisas
+
+TOTapPanelFiguras
+   Ventana: TOVentanaGestionPagos
+
+TOTapPanelFigurasCobro
+
+TOTapPanelMediosCobro
+   Ventana: TOJDialogAsociarCobrosRecibos
+   Ventana: TOVentanaCobrosReintegros
+   Stub: Ktoliccm
+   Stub: Ktolicdv
+   Stub: Ktolim13
+   Stub: Ktolimmc
+   Stub: Ktolvccm
+   Stub: Ktolvcdv
+   Stub: Ktolvm13
+   Stub: Ktolvmmc
+   Stub: Ktotrco3Stub
+   Stub: TNOtrosCobrosPagosStub
+   Stub: TOCobros2Stub
+
+TOTapPanelOCriterios
+   Ventana: TOVentanaGestionPagos
+
+TOTapPanelOtrosCobros
+
+TOTapPanelPEInterviniente
+
+TOTapPanelPOInterviniente
+
+TOTapPanelTipologia
+   Ventana: TOVentanaGestionPagos
+
+TOTapPanelTipologiaCobro
+   Stub: Ktolvbac
+
+TOValoresAdministracion
+
+TOVectorRelacionTransaccionCaract
+
