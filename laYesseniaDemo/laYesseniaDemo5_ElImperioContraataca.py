@@ -13,15 +13,16 @@ archivoNuevoFinal.write("Por cada Stub que hay aqui, se tienen los programas que
 
 for individuales in archivos:
     archivo = loscodecs.open(individuales, "r")
-    print(os.path.basename(str(individuales[:-5])))
-    archivoNuevoFinal.write(os.path.basename(str(individuales[:-5])) + "\n")
+    nombreArchivo = os.path.basename(str(individuales[:-5]))
 
-    for linea in archivo:
-        if buscarProgramas in linea:
-            lineaStrip = linea.strip()
-            print(lineaStrip[41:49])
-            archivoNuevoFinal.write("   " + lineaStrip[41:49] + "\n")
-
-    print("")
-    archivoNuevoFinal.write("\n")
+    if nombreArchivo[:4] != 'Ktol':
+        archivoNuevoFinal.write(nombreArchivo + "\n")
+        print(nombreArchivo)
+        for linea in archivo:
+            if buscarProgramas in linea:
+                lineaStrip = linea.strip()
+                print(lineaStrip[41:49])
+                archivoNuevoFinal.write("   " + lineaStrip[41:49] + "\n")
+        print("")
+        archivoNuevoFinal.write("\n")
     archivo.close()
