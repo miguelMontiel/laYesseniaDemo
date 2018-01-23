@@ -1,0 +1,1331 @@
+-----TODatos
+
+-----TODialogAutorizacion
+
+-----TODialogCodUsuAutorizado
+
+-----TODialogoCambioImporte
+
+-----TODialogoComparaRFC
+
+-----TODialogoImpresionLotesConta
+StubEntrada: Ktoliilc
+StubSalida: Ktolvilc
+Stub: ktotrilcStubStub
+
+-----TODialogoMotivo
+
+-----TODialogoMotivoLiberacion
+StubEntrada: Ktolimac
+StubSalida: Ktolvmac
+Stub: TOMonederoElectStub
+
+-----TODialogoValidaCodigoCheque
+StubEntrada: Ktolimac
+StubSalida: Ktolvmac
+Stub: TOMonederoElectStub
+
+-----TODialogValoresAdministracion
+
+-----TOInterfaceUpdateList
+
+-----TOJDialogAnulacion
+
+-----TOJDialogAsociarCobrosRecibos
+StubEntrada: Ktolil63
+StubEntrada: Ktolim13
+StubSalida: Ktolvl63
+StubSalida: Ktolvm13
+Stub: Ktotrco3Stub
+
+-----TOJDialogCuentaDomicilioPago
+
+-----TOJDialogDomicilioPago
+
+-----TOJDialogImpresionChe
+
+-----TOJDialogMtvoRechazoTransfer
+StubEntrada: Ktolik01
+StubEntrada: Ktolik02
+StubSalida: Ktolvk01
+StubSalida: Ktolvk02
+
+-----TOJDialogTextolibre
+
+-----TONOperacionActualizacionPagos
+
+-----TONOperacionAdministracionConceptos
+
+-----TONOperacionAutorizacionPagos
+
+-----TONOperacionAutorizacionPagosDividendos
+
+-----TONOperacionBusquedaCajas
+
+-----TONOperacionConsultaOrdenPagosDividendos
+
+-----TONOperacionCorteCaja
+
+-----TONOperacionCorteOficina
+
+-----TONOperacionEntregaChequeAdministradores
+
+-----TONOperacionEntregaChequeOperativos
+
+-----TONOperacionFlujoEfectivoCobro
+
+-----TONOperacionFR
+
+-----TONOperacionGeneracionReembolsoAdministradores
+
+-----TONOperacionGeneracionReembolsoOperativos
+
+-----TONOperacionInformeBalanza
+
+-----TONOperacionMttoCtasLicitacion
+
+-----TONOperacionMttoOrdenPagosDividend
+
+-----TONOperacionOrdenPagosDividendos
+
+-----TONOperacionOtrosCobros
+
+-----TONOperacionOtrosPagos
+
+-----TONOperacionOtrosPagosEsp
+
+-----TONOperacionParametrosFondeo
+
+-----TONOperacionReclasificacionLicitada
+
+-----TONPanelCamposCapturar
+StubEntrada: Ktolincc
+StubEntrada: Ktolinmc
+StubSalida: Ktolvncc
+StubSalida: Ktolvnmc
+Stub: TOAdmConceptosStub
+
+-----TONPanelCopias
+StubEntrada: Ktolincf
+StubEntrada: Ktolinmf
+StubSalida: Ktolvncf
+StubSalida: Ktolvnmf
+Stub: TNAdmFichasStub
+
+-----TONPanelDivisas
+StubEntrada: Ktolincc
+StubEntrada: Ktolinmc
+StubSalida: Ktolvncc
+StubSalida: Ktolvnmc
+Stub: TOAdmConceptosStub
+
+-----TONPanelLimiteNormal
+StubEntrada: Ktolincl
+StubEntrada: Ktolinml
+StubSalida: Ktolvncl
+StubSalida: Ktolvnml
+Stub: TNTechosFinancierosStub
+
+-----TONPanelLimitesExtraodinarios
+StubEntrada: Ktolincl
+StubEntrada: Ktolinml
+StubSalida: Ktolvncl
+StubSalida: Ktolvnml
+Stub: TNTechosFinancierosStub
+
+-----TONPanelLiquidCorteCaja
+StubEntrada: Ktolincr
+StubSalida: Ktolvncr
+Stub: TONCorteCajaStub
+
+-----TONPanelLiquidCorteOficina
+StubEntrada: Ktolinci
+StubSalida: Ktolvnci
+Stub: TONCorteOficinaStub
+
+-----TONPanelLiquidDepositos
+StubEntrada: Ktolinci
+StubSalida: Ktolvnci
+Stub: TONCorteOficinaStub
+
+-----TONPanelMC
+StubEntrada: Ktolincf
+StubEntrada: Ktolinmf
+StubSalida: Ktolvncf
+StubSalida: Ktolvnmf
+Stub: TNAdmFichasStub
+
+-----TONPanelMediosCobro
+StubEntrada: Ktolincc
+StubEntrada: Ktolinmc
+StubSalida: Ktolvncc
+StubSalida: Ktolvnmc
+Stub: TOAdmConceptosStub
+
+-----TONPanelOfic
+StubEntrada: Ktolibac
+StubEntrada: Ktolincf
+StubEntrada: Ktolinmf
+StubSalida: Ktolvbac
+StubSalida: Ktolvncf
+StubSalida: Ktolvnmf
+Stub: TNAdmFichasStub
+Stub: TOPagosStub
+
+-----TONPanelOficinas
+StubEntrada: Ktolincc
+StubEntrada: Ktolinmc
+StubSalida: Ktolvncc
+StubSalida: Ktolvnmc
+Stub: TOAdmConceptosStub
+
+-----TONPanelTiposCentro
+StubEntrada: Ktolincc
+StubEntrada: Ktolinmc
+StubSalida: Ktolvncc
+StubSalida: Ktolvnmc
+Stub: TOAdmConceptosStub
+
+-----TONVentanaBusquedaCajas
+StubEntrada: Ktolinlc
+StubEntrada: Ktolinvc
+StubSalida: Ktolvnlc
+StubSalida: Ktolvnvc
+Stub: TONCorteOficinaStub
+
+-----TONVentanaBusquedaCheques
+StubEntrada: Ktolinbe
+StubSalida: Ktolvbac
+StubSalida: Ktolvnbe
+Stub: TNEntregaChequesStub
+
+-----TONVentanaBusquedaConceptos
+StubEntrada: Ktolinbc
+StubEntrada: Ktolincc
+StubEntrada: Ktolinmc
+StubEntrada: Ktolinoc
+StubSalida: Ktolvnbc
+StubSalida: Ktolvnmc
+StubSalida: Ktolvnoc
+Stub: TOAdmConceptosStub
+
+-----TONVentanaBusquedaFlujoEfectivoCobros
+
+-----TONVentanaBusquedaFR
+StubEntrada: Ktolinbf
+StubEntrada: Ktolinmf
+StubSalida: Ktolvnbf
+StubSalida: Ktolvnmf
+Stub: TNAdmFichasStub
+
+-----TONVentanaBusquedaReembolsos
+StubEntrada: Ktolingr
+StubEntrada: Ktolinlr
+StubSalida: Ktolvbac
+StubSalida: Ktolvngr
+StubSalida: Ktolvnlr
+Stub: Ktotrn08Stub
+
+-----TONVentanaCorteCaja
+StubEntrada: Ktolinbr
+StubEntrada: Ktolincp
+StubEntrada: Ktolinec
+StubSalida: Ktolvnbr
+StubSalida: Ktolvncp
+StubSalida: Ktolvnec
+Stub: TONCorteCajaStub
+
+-----TONVentanaCorteOficina
+StubEntrada: Ktolinbi
+StubEntrada: Ktolinmi
+StubSalida: Ktolvnbi
+StubSalida: Ktolvnmi
+Stub: TONCorteOficinaStub
+
+-----TONVentanaDatosOtrosCobros
+Panel: TOCodigoCentro
+Panel: TOComponenteTipoCambio
+Panel: TONComponenteConceptos
+Panel: TONPanelOtrosCobros1
+Panel: TONPanelOtrosCobros2
+Panel: TONPanelOtrosCobros4
+Panel: TONPanelOtrosCobros5
+Panel: TONPanelOtrosCobros6
+Panel: TONPanelOtrosCobros7
+StubEntrada: Ktolinmp
+StubSalida: Ktolvnmp
+Stub: TNOtrosCobrosPagosStub
+
+-----TONVentanaDatosOtrosPagos
+Panel: TOCodigoCentro
+Panel: TOComponenteTipoCambio
+Panel: TONComponenteConceptos
+Panel: TONPanelOtrosPagos1
+Panel: TONPanelOtrosPagos10
+Panel: TONPanelOtrosPagos2
+Panel: TONPanelOtrosPagos3
+Panel: TONPanelOtrosPagos4
+Panel: TONPanelOtrosPagos5
+Panel: TONPanelOtrosPagos6
+Panel: TONPanelOtrosPagos7
+Panel: TONPanelOtrosPagos8
+Panel: TONPanelOtrosPagos9
+StubEntrada: Ktolidv5
+StubEntrada: Ktolinmp
+StubSalida: Ktolvdv5
+StubSalida: Ktolvnmp
+Stub: TNOtrosCobrosPagosStub
+Stub: TONConsPagosDividStub
+
+-----TONVentanaDetalleMediosCobroDeposito
+
+-----TONVentanaEntregaCheque
+Panel: ComponenteSerialPortListener
+StubEntrada: Ktolinca
+StubEntrada: Ktolinme
+StubSalida: Ktolvbac
+StubSalida: Ktolvnca
+StubSalida: Ktolvnme
+Stub: TNEntregaChequesStub
+
+-----TONVentanaFondeoCuenta
+StubEntrada: Ktolinbe
+StubEntrada: Ktolinfc
+StubSalida: Ktolvnfc
+Stub: TNEntregaChequesStub
+
+-----TONVentanaInformeBalanza
+
+-----TONVentanaInformes
+
+-----TONVentanaLiquidacionCorteCaja
+StubEntrada: Ktolincr
+StubSalida: Ktolvncr
+Stub: TONCorteCajaStub
+
+-----TONVentanaLiquidacionCorteOficina
+StubEntrada: Ktolinmi
+StubSalida: Ktolvnmi
+Stub: TONCorteOficinaStub
+
+-----TONVentanaMantenimientoConceptos
+StubEntrada: Ktolinmc
+StubSalida: Ktolvncc
+StubSalida: Ktolvnmc
+Stub: TOAdmConceptosStub
+
+-----TONVentanaMantenimientoParametrosFondeo
+StubEntrada: Ktolinml
+StubSalida: Ktolvnml
+Stub: TNTechosFinancierosStub
+
+-----TONVentanaMttoFR
+StubEntrada: Ktolinmf
+StubSalida: Ktolvnmf
+Stub: TNAdmFichasStub
+
+-----TONVentanaMttoPagosxContrato
+StubEntrada: Ktolilo6
+StubEntrada: Ktolilo7
+StubEntrada: Ktolimo4
+StubSalida: Ktolvlo6
+StubSalida: Ktolvlo7
+StubSalida: Ktolvmo4
+Stub: Ktotrf00Stub
+
+-----TONVentanaOtrosPagos
+Panel: TOTapPanelPEInterviniente
+StubEntrada: Ktolicin
+StubEntrada: Ktolidv3
+StubEntrada: Ktolidv5
+StubEntrada: Ktoliini
+StubEntrada: Ktolinco
+StubEntrada: Ktolinmp
+StubEntrada: Ktolinmq
+StubEntrada: Ktolipin
+StubEntrada: Ktolivpd
+StubSalida: Ktolvbac
+StubSalida: Ktolvcin
+StubSalida: Ktolvdv3
+StubSalida: Ktolvdv5
+StubSalida: Ktolvini
+StubSalida: Ktolvnco
+StubSalida: Ktolvnmp
+StubSalida: Ktolvnmq
+StubSalida: Ktolvpin
+StubSalida: Ktolvvpd
+Stub: Ktotrpa4Stub
+Stub: KtotrvpdStub
+Stub: TNOtrosCobrosPagosStub
+Stub: TONConsPagosDividStub
+
+-----TONVentanaOtrosPagosxContrato
+StubEntrada: Ktolimo1
+StubEntrada: Ktolimo2
+StubEntrada: Ktolimo5
+StubSalida: Ktolvbac
+StubSalida: Ktolvmo1
+StubSalida: Ktolvmo2
+StubSalida: Ktolvmo5
+Stub: Ktotrf00Stub
+
+-----TONVentanaReportes
+
+-----TONVentanaTotalesFlujoEfectivo
+
+-----TOOperacionActualizacionPagos
+
+-----TOOperacionActualizacionPagosCORE
+
+-----TOOperacionActualizacionPagosIntermediarios
+
+-----TOOperacionAdministracionConceptos
+
+-----TOOperacionAltaPlantillas
+
+-----TOOperacionAltaRemesaFIDE
+
+-----TOOperacionAltaRemesaTr
+
+-----TOOperacionAltaRemesaUDIS
+
+-----TOOperacionAnalisisError
+
+-----TOOperacionAnulaAgrupacion
+
+-----TOOperacionAnulaAgrupacionCORE
+
+-----TOOperacionAnulaAgrupacionIntermediarios
+
+-----TOOperacionAnulaAgrupacionTNO
+
+-----TOOperacionAutorizacionAdm
+
+-----TOOperacionAutorizacionCR
+
+-----TOOperacionAutorizacionPagos
+
+-----TOOperacionAutorizacionReaseguro
+
+-----TOOperacionBusquedaPlantillas
+
+-----TOOperacionBusquedaPPA
+
+-----TOOperacionCobroMasivoInt
+
+-----TOOperacionCobrosCoaseguro
+
+-----TOOperacionCobrosIntermediarios
+
+-----TOOperacionCobrosIntermediariosEs
+
+-----TOOperacionCobrosReaseguro
+
+-----TOOperacionCobrosReintegros
+
+-----TOOperacionCobrosReintegrosEs
+
+-----TOOperacionConsCobrosCR
+
+-----TOOperacionConsPagosAdm
+
+-----TOOperacionConsPagosCR
+
+-----TOOperacionConsPagosSiniestrosCR
+
+-----TOOperacionConsProcContable
+
+-----TOOperacionConsRefeConta
+
+-----TOOperacionConsultaApuntes
+
+-----TOOperacionConsultaCobros
+
+-----TOOperacionConsultaCuentasCg
+
+-----TOOperacionConsultaCuentasIn
+
+-----TOOperacionConsultaCuentasRe
+
+-----TOOperacionConsultaLiquidacionCoaseguro
+
+-----TOOperacionConsultaLiquidacionCORE
+
+-----TOOperacionConsultaLiquidacionReaseguro
+
+-----TOOperacionConsultaNumerosCheques
+
+-----TOOperacionConsultaPagos
+
+-----TOOperacionConsultaPlantillas
+
+-----TOOperacionConsultaReferenciaCarga
+
+-----TOOperacionConsultaReintegros
+
+-----TOOperacionConsultaRemesaTr
+
+-----TOOperacionConsultaResultadoCarga
+
+-----TOOperacionConsultaTipoCambio
+
+-----TOOperacionConsultaTipoCambioRE
+
+-----TOOperacionControlProcesoContabilizacion
+
+-----TOOperacionDetalleMediosCobro
+
+-----TOOperacionDetalleRecibos
+
+-----TOOperacionFechasSICOBRA
+
+-----TOOperacionFR
+
+-----TOOperacionGestionCobros
+
+-----TOOperacionGestionInternaPagos
+
+-----TOOperacionGestionPagos
+
+-----TOOperacionImpresionCheques
+
+-----TOOperacionIncidenciasCobro
+
+-----TOOperacionKCITC1T
+
+-----TOOperacionKRBMCIT
+
+-----TOOperacionKRBTC0T
+
+-----TOOperacionKRBTCCT
+
+-----TOOperacionKRBTCMT
+
+-----TOOperacionKRBTCRT
+
+-----TOOperacionKTOTC3T
+
+-----TOOperacionKTOTC3TT
+
+-----TOOperacionKTOTCAT
+
+-----TOOperacionLiquidacionCoaseguro
+
+-----TOOperacionLiquidacionReaseguro
+
+-----TOOperacionListadoApuntesManualCg
+
+-----TOOperacionListadoCobranzaElectronica
+
+-----TOOperacionListadoCuentasCg
+
+-----TOOperacionListadoFacturasCoaseguro
+
+-----TOOperacionListadoRemesasCg
+
+-----TOOperacionListadoSaldoCtaTecnica
+
+-----TOOperacionListadoTraspasosCg
+
+-----TOOperacionMantenimientoCuentasCg
+
+-----TOOperacionMantenimientoCuentaSeguroBanamex
+
+-----TOOperacionMantenimientoCuentasIn
+
+-----TOOperacionMantenimientoCuentasRe
+
+-----TOOperacionMantenimientoNumerosCheques
+
+-----TOOperacionMantEspCobros
+
+-----TOOperacionMantEspPagos
+
+-----TOOperacionMantReintegros
+
+-----TOOperacionMttoCobrosCR
+
+-----TOOperacionMttoLiquidacionCoaseguro
+
+-----TOOperacionMttoLiquidacionCORE
+
+-----TOOperacionMttoLiquidacionReaseguro
+
+-----TOOperacionMttoPagosAdm
+
+-----TOOperacionMttoPagosSiniestrosCR
+
+-----TOOperacionMttoPlantillas
+
+-----TOOperacionMttoPPA
+
+-----TOOperacionMttoReintegros
+
+-----TOOperacionMttoReintegrosSI
+
+-----TOOperacionMttoRemesaTr
+
+-----TOOperacionMttoTipoCambio
+
+-----TOOperacionMttoTipoCambioRE
+
+-----TOOperacionMttoTransferencia
+
+-----TOOperacionPagoBordero
+
+-----TOOperacionPagoDistribuido
+
+-----TOOperacionPagoDistribuidoEsp
+
+-----TOOperacionPagoIndemnizacionVida
+
+-----TOOperacionPagos
+
+-----TOOperacionPagosCoaseguro
+
+-----TOOperacionPagosEsp
+
+-----TOOperacionPagosIntermediarios
+
+-----TOOperacionPagosIntermediariosEsp
+
+-----TOOperacionPagosReaseguro
+
+-----TOOperacionPeticionCalculoPT
+
+-----TOOperacionPeticionConfirmacionPT
+
+-----TOOperacionPreAutorizaciones
+
+-----TOOperacionReportePPAEstrucCom
+
+-----TOOperacionRespEnvioBanc
+
+-----TOOperacionSolicitudCarga
+
+-----TOOperacionVentanaExtractoReferenciaCMCLista
+
+-----TOPanelMovAutomaticosRE
+StubEntrada: Ktolil33
+StubSalida: Ktolvl33
+Stub: ToMantenMmrStub
+
+-----TOPanelMovManualesRE
+StubEntrada: Ktolil33
+StubSalida: Ktolvl33
+Stub: ToMantenMmrStub
+
+-----TORegistroCriteriosApuntes
+
+-----TOTablaPanelesDetalleCtaRe
+
+-----TOVentana
+
+-----TOVentanaActualizacionCuentaSeguroBanamex
+StubEntrada: Ktolilpb
+StubSalida: Ktolvlpb
+StubEntrada: Ktolipbp
+StubSalida: Ktolvpbp
+Stub: KtotrlpbStub
+
+-----TOVentanaActualizacionPagos
+Panel: TOBusquedaActualizacion
+Panel: TOCriteriosLGestionPagos
+StubEntrada: Ktoliapg
+StubEntrada: Ktoliapm
+StubEntrada: Ktolilai
+StubEntrada: Ktolilam
+StubEntrada: Ktolilpa
+StubEntrada: Ktolimpg
+StubEntrada: Ktolinmr
+StubSalida: Ktolvapg
+StubSalida: Ktolvapm
+StubSalida: Ktolvbac
+StubSalida: Ktolvlai
+StubSalida: Ktolvlam
+StubSalida: Ktolvlpa
+StubSalida: Ktolvnmr
+Stub: TNOtrosCobrosPagosStub
+
+-----TOVentanaAnulaAgrupacion
+StubEntrada: Ktolilpa
+StubEntrada: Ktolilpg
+StubEntrada: Ktolimag
+StubEntrada: Ktolimpg
+StubEntrada: Ktolinmr
+StubSalida: Ktolvbac
+StubSalida: Ktolvlpa
+StubSalida: Ktolvlpg
+StubSalida: Ktolvmag
+StubSalida: Ktolvnmr
+Stub: TNOtrosCobrosPagosStub
+Stub: TOPagos3Stub
+
+-----TOVentanaAutorizacionPagos
+Panel: TOBusquedaAutorizacion
+StubEntrada: Ktoliaut
+StubEntrada: Ktoliini
+StubEntrada: Ktolilai
+StubEntrada: Ktolilap
+StubEntrada: Ktolilpa
+StubEntrada: Ktolinmr
+StubEntrada: Ktolipa6
+StubEntrada: Ktolipa7
+StubSalida: Ktolvaut
+StubSalida: Ktolvbac
+StubSalida: Ktolvini
+StubSalida: Ktolvlai
+StubSalida: Ktolvlap
+StubSalida: Ktolvlpa
+StubSalida: Ktolvnmr
+StubSalida: Ktolvpa6
+StubSalida: Ktolvpa7
+Stub: ServidorKTOTRPAUStub
+Stub: TNOtrosCobrosPagosStub
+Stub: TOTransferenciasStub
+StubEntrada: Ktolilpu
+StubSalida: Ktolvlpu
+Stub: KtotrlpuStubStub
+
+-----TOVentanaAutorizacionPagosDividendos
+Panel: TOBusquedaAutorizacionDividendos
+StubEntrada: Ktoliapd
+StubEntrada: Ktoliaut
+StubEntrada: Ktoliini
+StubEntrada: Ktolilpa
+StubEntrada: Ktolinmr
+StubSalida: Ktolvapd
+StubSalida: Ktolvaut
+StubSalida: Ktolvbac
+StubSalida: Ktolvini
+StubSalida: Ktolvlpa
+StubSalida: Ktolvnmr
+Stub: Ktotrf00Stub
+Stub: TNOtrosCobrosPagosStub
+Stub: TOTransferenciasStub
+
+-----TOVentanaBusquedaContratosRe
+Panel: TOComponenteDivisas
+Panel: TOComponenteTipoCambio
+Panel: TORangoPeriodos
+StubEntrada: Ktolim44
+StubSalida: Ktolvbac
+StubSalida: Ktolvm44
+Stub: LIQUIDACIONStub
+
+-----TOVentanaBusquedaCriteriosApuntesContables
+Panel: TOPanelMEC
+
+-----TOVentanaBusquedaCuentasCg
+Panel: TORangoPeriodos
+StubEntrada: Ktolic23
+StubEntrada: Ktolil23
+StubSalida: Ktolvc23
+StubSalida: Ktolvl23
+StubSalida: Ktolvr23
+Stub: TOconsultaCoStub
+
+-----TOVentanaBusquedaCuentasIn
+Panel: TORangoPeriodos
+StubEntrada: Ktolic27
+StubEntrada: Ktolil27
+StubEntrada: Ktolinet
+StubEntrada: Ktolit27
+StubSalida: Ktolvc27
+StubSalida: Ktolvl27
+StubSalida: Ktolvnet
+StubSalida: Ktolvt27
+Stub: Ktotrpa5Stub
+Stub: TOconsultaCiStub
+
+-----TOVentanaBusquedaCuentasRe
+Panel: TORangoPeriodos
+StubEntrada: Ktolic31
+StubEntrada: Ktolil31
+StubEntrada: Ktolim32
+StubSalida: Ktolvbac
+StubSalida: Ktolvc31
+StubSalida: Ktolvl31
+StubSalida: Ktolvm32
+Stub: Ktotr031Stub
+Stub: LIQUIDACIONStub
+
+-----TOVentanaBusquedaListaApuntesContables
+StubEntrada: Ktolil60
+StubEntrada: Ktolil70
+StubSalida: Ktolvl60
+StubSalida: Ktolvl70
+Stub: Ktotr060Stub
+
+-----TOVentanaBusquedaPlantillas
+Panel: TOPanelCuenta
+Panel: TOPanelMEC
+StubEntrada: Ktolic50
+StubEntrada: Ktolil50
+StubEntrada: Ktolim50
+StubSalida: Ktolvc50
+StubSalida: Ktolvl50
+StubSalida: Ktolvm50
+Stub: Ktotr050Stub
+
+-----TOVentanaBusquedaPPA
+Panel: TOComponentePPA
+StubEntrada: Ktolix01
+StubEntrada: Ktolix03
+StubSalida: Ktolvx01
+StubSalida: Ktolvx03
+Stub: Ktotrx01Stub
+
+-----TOVentanaCalculoProvisionesTecnicas
+Panel: TORelacion
+Panel: TOVectorRelacionTransaccionCaract
+StubEntrada: Ktolic54
+StubEntrada: Ktolim45
+StubEntrada: Ktolip01
+StubSalida: Ktolvc54
+StubSalida: Ktolvm45
+StubSalida: Ktolvp01
+Stub: Ktotr046Stub
+Stub: Ktotrc54Stub
+Stub: TOMantptStub
+
+-----TOVentanaCobrosReintegros
+Panel: TOBusquedaCBancario
+Panel: TOPanelCobrosIntermediarios
+Panel: TOPanelCobrosRea
+Panel: TOPanelCobrosReintegros
+Panel: TOPanelOtrosCobros
+Panel: TOTapPanelMediosCobro
+StubEntrada: Ktolicbi
+StubEntrada: Ktolicbr
+StubEntrada: Ktolicmi
+StubEntrada: Ktolicrc
+StubEntrada: Ktoliept
+StubEntrada: Ktoliigb
+StubEntrada: Ktolinbo
+StubEntrada: Ktolinco
+StubEntrada: Ktolipin
+StubSalida: Ktolvbac
+StubSalida: Ktolvcbi
+StubSalida: Ktolvcbr
+StubSalida: Ktolvccb
+StubSalida: Ktolvccc
+StubSalida: Ktolvcci
+StubSalida: Ktolvcmi
+StubSalida: Ktolvcrc
+StubSalida: Ktolvept
+StubSalida: Ktolvigb
+StubSalida: Ktolvnbo
+StubSalida: Ktolvnco
+StubSalida: Ktolvnoo
+StubSalida: Ktolvp01
+StubSalida: Ktolvpin
+Stub: Ktotrco3Stub
+Stub: Ktotrpa4Stub
+Stub: Ktotrpa7Stub
+Stub: TNOtrosCobrosPagosStub
+Stub: TOCobros1Stub
+Stub: TOCobros2Stub
+Stub: TOSapStub
+
+-----TOVentanaConfirmacionProvisionesTecnicas
+Panel: TORelacion
+Panel: TOVectorRelacionTransaccionCaract
+StubEntrada: Ktolip01
+StubEntrada: Ktolip03
+StubSalida: Ktolvp01
+StubSalida: Ktolvp03
+Stub: Ktotr046Stub
+Stub: KtotrcptStub
+
+-----TOVentanaConsProcContable
+StubEntrada: Ktolicpc
+StubSalida: Ktolvcpc
+Stub: Ktotr050Stub
+
+-----TOVentanaConsRefeConta
+StubEntrada: Ktolidrc
+StubSalida: Ktolvdrc
+Stub: Ktotr050Stub
+
+-----TOVentanaConsultaApuntes
+Panel: TOPanelMEC
+StubEntrada: Ktoli601
+StubEntrada: Ktoli700
+StubSalida: Ktolv601
+StubSalida: Ktolv700
+Stub: Ktotr060Stub
+Stub: Ktotr061Stub
+
+-----TOVentanaConsultaCuentas
+Panel: TOPendientes
+Panel: TORangoPeriodos
+StubEntrada: Ktolil34
+StubEntrada: Ktolilpc
+StubEntrada: Ktolix01
+StubSalida: Ktolvt27
+StubSalida: Ktolvx01
+Stub: Ktotrx01Stub
+
+-----TOVentanaConsultaCuentasCg
+Panel: TOPendientes
+Panel: TORangoPeriodos
+StubEntrada: Ktolilpc
+
+-----TOVentanaConsultaCuentasRe
+Panel: TOPendientes
+Panel: TORangoPeriodos
+StubEntrada: Ktolilpc
+StubEntrada: Ktolip01
+StubSalida: Ktolvc31
+StubSalida: Ktolvp01
+Stub: Ktotr046Stub
+
+-----TOVentanaConsultaDetalleApuntesContables
+Panel: TOPanelMEC
+
+-----TOVentanaConsultaPPA
+Panel: TOComponentePPA
+StubEntrada: Ktolicci
+StubEntrada: Ktolilcb
+StubEntrada: Ktolinmr
+StubEntrada: Ktolix02
+StubSalida: Ktolvcci
+StubSalida: Ktolvlcb
+StubSalida: Ktolvnmr
+StubSalida: Ktolvx02
+Stub: Ktotrx01Stub
+Stub: TNOtrosCobrosPagosStub
+Stub: TOCobros1Stub
+Stub: TOCobros2Stub
+
+-----TOVentanaControlProcesoContabilizacion
+StubEntrada: Ktolij01
+StubEntrada: Ktolij02
+StubEntrada: Ktolij03
+StubSalida: Ktolvj01
+StubSalida: Ktolvj02
+StubSalida: Ktolvj03
+Stub: Ktotrj00Stub
+
+-----TOVentanaCriteriosPagosDistribuidosSiniestros
+Panel: TOBusquedaCBancario
+Panel: TOComponenteDivisas
+Panel: TOComponenteTipoCambio
+Panel: TOPanelDeducible
+Panel: TOPanelFacturaMinuta
+Panel: TOPanelSolicitudChequeDivisas
+Panel: TOTapPanelPEInterviniente
+Panel: TOTapPanelPOInterviniente
+StubEntrada: Ktolicpg
+StubEntrada: Ktolimpd
+StubSalida: Ktolvbac
+StubSalida: Ktolvcpg
+StubSalida: Ktolvmpd
+Stub: TOPagos2Stub
+
+-----TOVentanaCtrolIncidenciasContabilizacion
+StubEntrada: Ktolij20
+StubEntrada: Ktolil20
+StubSalida: Ktolvj20
+StubSalida: Ktolvl20
+Stub: Ktotrj20Stub
+
+-----TOVentanaDetalleCuentaCg
+Panel: TORangoPeriodos
+StubEntrada: Ktolil21
+StubEntrada: Ktolilpc
+StubEntrada: Ktolip01
+StubSalida: Ktolvl21
+StubSalida: Ktolvlpc
+StubSalida: Ktolvp01
+Stub: Ktotr046Stub
+Stub: Ktotrpa5Stub
+Stub: TOMantenMmcStub
+
+-----TOVentanaDetalleCuentaIn
+Panel: TORangoPeriodos
+StubEntrada: Ktolil26
+StubEntrada: Ktolil34
+StubEntrada: Ktolil48
+StubEntrada: Ktolilpc
+Comentado: Ktolip01
+StubSalida: Ktolvl21
+StubSalida: Ktolvl26
+StubSalida: Ktolvl34
+StubSalida: Ktolvl48
+StubSalida: Ktolvlpc
+Comentado: Ktolvp01
+Comentado: Ktotr046Stub
+Stub: Ktotr048Stub
+Stub: Ktotrpa5Stub
+Stub: TOMantenMmiStub
+
+-----TOVentanaDetalleCuentaRe
+Panel: TORangoPeriodos
+StubEntrada: Ktolil33
+StubEntrada: Ktolilpc
+StubEntrada: Ktolip01
+StubSalida: Ktolvl33
+StubSalida: Ktolvlpc
+StubSalida: Ktolvp01
+Stub: Ktotr046Stub
+Stub: Ktotrpa5Stub
+Stub: ToMantenMmrStub
+
+-----TOVentanaExtractoReferenciaCMCDetalle
+StubEntrada: Ktolicm6
+StubSalida: Ktolvcm6
+Stub: StubKtotrcmcStub
+
+-----TOVentanaExtractoReferenciaCMCLista
+StubEntrada: Ktolicm5
+StubEntrada: Ktolicm7
+StubSalida: Ktolvcm5
+StubSalida: Ktolvbac
+StubSalida: Ktolvcm7
+Stub: StubKtotrcmcStub
+
+-----TOVentanaGestionCobros
+Panel: TOBusquedaCobro
+StubEntrada: Ktolianu
+StubEntrada: Ktolicbi
+StubEntrada: Ktoliccb
+StubEntrada: Ktoliccc
+StubEntrada: Ktolicci
+StubEntrada: Ktolicsa
+StubEntrada: Ktolilcb
+StubEntrada: Ktolinco
+StubEntrada: Ktolinoo
+StubSalida: Ktolvanu
+StubSalida: Ktolvbac
+StubSalida: Ktolvcbi
+StubSalida: Ktolvccb
+StubSalida: Ktolvccc
+StubSalida: Ktolvcci
+StubSalida: Ktolvcsa
+StubSalida: Ktolvlcb
+StubSalida: Ktolvnco
+StubSalida: Ktolvnoo
+Stub: Ktotrpa5Stub
+Stub: TNOtrosCobrosPagosStub
+Stub: TOCobros1Stub
+Stub: TOCobros2Stub
+Stub: TOPagos2Stub
+
+-----TOVentanaGestionPagos
+Panel: TOBusquedaLPago
+Panel: TOCriteriosLGestionPagos
+Panel: TOCriteriosLGestionPagosCoReInt
+StubEntrada: Ktolianp
+StubEntrada: Ktolicbi
+StubEntrada: Ktolilpa
+StubEntrada: Ktolilpg
+StubEntrada: Ktolimch
+StubEntrada: Ktolimpg
+StubEntrada: Ktolinco
+StubEntrada: Ktolinmr
+StubEntrada: Ktolipcr
+StubEntrada: Ktolipin
+StubEntrada: Ktolirim
+StubSalida: Ktolvanp
+StubSalida: Ktolvbac
+StubSalida: Ktolvcbi
+StubSalida: Ktolvlpa
+StubSalida: Ktolvlpg
+StubSalida: Ktolvmch
+StubSalida: Ktolvnco
+StubSalida: Ktolvnmr
+StubSalida: Ktolvrim
+Stub: KtotranuStub
+Stub: Ktotrpa6Stub
+Stub: TNOtrosCobrosPagosStub
+Stub: TOCobros2Stub
+Stub: TOPagosStub
+
+-----TOVentanaGestionReintegros
+Panel: TOBusquedaNumReintegro
+Panel: TOBusquedaReintegros
+StubEntrada: Ktolilre
+StubEntrada: Ktolirei
+StubSalida: Ktolvbac
+StubSalida: Ktolvlre
+StubSalida: Ktolvrei
+Stub: TOCobros1Stub
+
+-----TOVentanaHistorico
+Panel: TOBusquedaCBancario
+Panel: TOListaHistorico
+StubEntrada: Ktolihcp
+StubSalida: Ktolvhcp
+
+-----TOVentanaImpresionCheques
+StubEntrada: Ktolibch
+StubEntrada: Ktolilch
+StubEntrada: Ktolilpa
+StubEntrada: Ktolinmr
+StubSalida: Ktolvbch
+StubSalida: Ktolvlch
+StubSalida: Ktolvlpa
+StubSalida: Ktolvnmr
+Stub: PAGOCHEQUEStub
+Stub: TNOtrosCobrosPagosStub
+Stub: TOPagos2Stub
+
+-----TOVentanaIndicadorVisual
+
+-----TOVentanaLinNegocio
+
+-----TOVentanaLiquidacionCORE
+Panel: TOComponenteTipoCambio
+Panel: TORangoPeriodos
+StubEntrada: Ktolic32
+StubEntrada: Ktolim32
+StubEntrada: Ktolim44
+StubEntrada: Ktolin32
+StubEntrada: Ktolit32
+StubSalida: Ktolvc32
+StubSalida: Ktolvm32
+StubSalida: Ktolvm44
+StubSalida: Ktolvn32
+StubSalida: Ktolvt32
+Stub: LIQUIDACIONStub
+
+-----TOVentanaListadoCobranzaElectronica
+
+-----TOVentanaMantenimientoLiquidacionCORE
+Panel: TOBusquedaNumReintegro
+Panel: TORangoPeriodos
+StubEntrada: Ktolic32
+StubEntrada: Ktolil32
+StubSalida: Ktolvc32
+StubSalida: Ktolvl32
+Stub: LIQUIDACIONStub
+
+-----TOVentanaMantenimientoTC
+StubEntrada: Ktoliatc
+StubEntrada: Ktoliltc
+StubEntrada: Ktolimtc
+StubSalida: Ktolvatc
+StubSalida: Ktolvltc
+StubSalida: Ktolvmtc
+Stub: Ktotrpa6Stub
+Stub: Ktotrpa7Stub
+
+-----TOVentanaMinuta
+Panel: TOComponenteDivisas
+StubEntrada: Ktolicfm
+StubEntrada: Ktolimfm
+StubSalida: Ktolvcfm
+StubSalida: Ktolvmfm
+Stub: TOPagosStub
+
+-----TOVentanaMovimientosManualesCg
+StubEntrada: Ktolil21
+StubEntrada: Ktolimov
+StubSalida: Ktolvbac
+StubSalida: Ktolvl21
+StubSalida: Ktolvmov
+Stub: TOMantMovManualesStub
+Stub: TOMantenMmcStub
+
+-----TOVentanaMovimientosManualesIn
+StubEntrada: Ktoliini
+StubEntrada: Ktolil26
+StubEntrada: Ktolimov
+StubSalida: Ktolvbac
+StubSalida: Ktolvini
+StubSalida: Ktolvl26
+StubSalida: Ktolvmov
+Stub: TOMantMovManualesStub
+Stub: TOMantenMmiStub
+Stub: TOconsultaCiStub
+
+-----TOVentanaMovimientosManualesRe
+StubEntrada: Ktolil33
+StubEntrada: Ktolimov
+StubSalida: Ktolvbac
+StubSalida: Ktolvl33
+StubSalida: Ktolvmov
+Stub: TOMantMovManualesStub
+Stub: ToMantenMmrStub
+
+-----TOVentanaMttoAgrupaTransf
+StubEntrada: Ktolildt
+StubEntrada: Ktolilpa
+StubEntrada: Ktolilst
+StubEntrada: Ktolinmr
+StubSalida: Ktolvldt
+StubSalida: Ktolvlpa
+Comentado: Ktolvlpg
+StubSalida: Ktolvlst
+StubSalida: Ktolvnmr
+Stub: TNOtrosCobrosPagosStub
+
+-----TOVentanaMttoPlantillas
+Panel: TOPanelCriteriosCEC
+Panel: TOPanelCriteriosMEC
+StubEntrada: Ktolic50
+StubEntrada: Ktolim50
+StubSalida: Ktolvc50
+StubSalida: Ktolvm50
+Stub: Ktotr050Stub
+
+-----TOVentanaMttoReintegros
+Panel: TOComponenteDivisas
+Panel: TOPanelFacturaMinuta
+StubEntrada: Ktolilre
+StubEntrada: Ktolirei
+StubSalida: Ktolvbac
+StubSalida: Ktolvlre
+StubSalida: Ktolvrei
+Stub: TOCobros1Stub
+
+-----TOVentanaMttoRemesa
+Panel: TOBusquedaTransferencia
+Panel: TOListaTransferencias
+StubEntrada: Ktolilrg
+StubEntrada: Ktolimfc
+StubEntrada: Ktolimrg
+StubEntrada: Ktolisrg
+StubSalida: Ktolvbac
+StubSalida: Ktolvlrg
+StubSalida: Ktolvmfc
+StubSalida: Ktolvmrg
+StubSalida: Ktolvsrg
+Stub: TOTransferenciasStub
+
+-----TOVentanaPagos
+Panel: TOBusquedaCBancario
+Panel: TOComponenteDivisas
+Panel: TOComponenteTipoCambio
+Panel: TOPanelDeducible
+Panel: TOPanelFacturaMinuta
+Panel: TOPanelSolicitudChequeDivisas
+Panel: TOTapPanelPEInterviniente
+Panel: TOTapPanelPOInterviniente
+StubEntrada: Ktolicpg
+StubEntrada: Ktolimpg
+StubSalida: Ktolvbac
+StubSalida: Ktolvcpg
+StubSalida: Ktolvmpg
+Stub: TOPagos2Stub
+
+-----TOVentanaPagosCFDI
+
+-----TOVentanaPagosCORE
+Panel: TOBusquedaCBancario
+Panel: TOComponenteDivisas
+Panel: TOComponenteTipoCambio
+Panel: TOTapPanelPEInterviniente
+StubEntrada: Ktolicpr
+StubEntrada: Ktolipcr
+StubSalida: Ktolvbac
+StubSalida: Ktolvcpr
+StubSalida: Ktolvpcr
+Stub: Ktotrpa4Stub
+
+-----TOVentanaPagosDistribuidos
+StubEntrada: Ktolilpd
+StubEntrada: Ktolimfm
+StubEntrada: Ktolimpd
+StubEntrada: Ktolimpg
+StubSalida: Ktolvbac
+StubSalida: Ktolvlpd
+StubSalida: Ktolvmfm
+StubSalida: Ktolvmpd
+StubSalida: Ktolvmpg
+Stub: TOPagos2Stub
+Stub: TOPagosStub
+
+-----TOVentanaPagosIntermediarios
+Panel: TOBusquedaCBancario
+Panel: TOComponenteDivisas
+Panel: TOTapPanelPEInterviniente
+StubEntrada: Ktolicin
+StubEntrada: Ktolipin
+StubSalida: Ktolvbac
+StubSalida: Ktolvcin
+StubSalida: Ktolvpin
+Stub: Ktotrpa4Stub
+
+-----TOVentanaParametrosInforme
+
+-----TOVentanaPeticionInformesCuentasIn
+Panel: TORangoPeriodos
+
+-----TOVentanaPeticionInformesCuentasIntermediarios1907
+
+-----TOVentanaPlanContable
+Panel: TOPanelCuenta
+StubEntrada: Ktolil90
+StubSalida: Ktolvl90
+Stub: Ktotr090Stub
+
+-----TOVentanaPreAutorizaciones
+Panel: TOComponenteDivisas
+StubEntrada: Ktolipa3
+StubSalida: Ktolvpa3
+Stub: ServidorKTOTRPAUStub
+
+-----TOVentanaPreAutorizacionesBusqueda
+StubEntrada: Ktolipa1
+StubSalida: Ktolvbac
+StubSalida: Ktolvpa1
+Stub: ServidorKTOTRPAUStub
+
+-----TOVentanaPreAutorizacionesHistorico
+Panel: TOListaHistoricoPreA
+StubEntrada: Ktolipa4
+StubSalida: Ktolvpa4
+Stub: ServidorKTOTRPAUStub
+
+-----TOVentanaRemesaTr
+Panel: TOBusquedaRemesaTr
+StubEntrada: Ktolienv
+StubEntrada: Ktolilfc
+StubEntrada: Ktolimrr
+StubEntrada: Ktolimrt
+StubSalida: Ktolvbac
+StubSalida: Ktolvenv
+StubSalida: Ktolvlfc
+StubSalida: Ktolvmfc
+StubSalida: Ktolvmrr
+StubSalida: Ktolvmrt
+Stub: TORemesasStub
+Stub: TOTransferenciasStub
+
+-----TOVentanaReportePPAEstrucCom
+
+-----TOVentanaRespEnvioBanc
+StubEntrada: Ktolireb
+StubSalida: Ktolvreb
+
+-----TOVentanaTransferencias
+Panel: TOBusquedaMttoTransferencia
+Panel: TOListaTransferencias
+StubEntrada: Ktolilrg
+StubEntrada: Ktolisrg
+StubSalida: Ktolvlrg
+StubSalida: Ktolvmfc
+StubSalida: Ktolvsrg
+
+-----TOVentanaTransferenciasRechazadas
+Comentado: TOListaTransferencias
+Panel: TOListaTransferenciasRechazadas
+StubEntrada: Ktolilrt
+Comentado: Ktolvlpg
+StubSalida: Ktolvlrt
+
+-----TOVentanaTraspasoPPA
+Panel: TOComponentePPA
+Panel: TOComponenteTipoCambio
+StubEntrada: Ktolix03
+StubSalida: Ktolvx03
+Stub: Ktotrx01Stub
+
+-----TOVentanaTraspasosSobreCuentasIn
+StubEntrada: Ktolimov
+StubSalida: Ktolvmov
+Stub: TOMantMovManualesStub
+

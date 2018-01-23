@@ -1,0 +1,128 @@
+Mantenimiento Tipo Cambio Reaseguro-TOOperacionMttoTipoCambioRE
+Emisión pago-TOOperacionPagos
+Agrupación cheques siniestros-TOOperacionActualizacionPagos
+Mantenimiento pagos stros.-TOOperacionGestionPagos
+Emisión de pago de borderó-TOOperacionPagoBordero
+Emis.recuper.-TOOperacionMantReintegros
+Mantenimiento de recuperaciones-TOOperacionMttoReintegros
+C.pago stro.-TOOperacionConsultaPagos
+Cons.recuper.-TOOperacionConsultaReintegros
+Consulta Tipo Cambio Reaseguro-TOOperacionConsultaTipoCambioRE
+Listado de cobranza electronica-TOOperacionListadoCobranzaElectronica
+Transferencias Urgentes-TOOperacionTransfUrgentes
+PreAutorización Vencimientos-TOOperacionPreAutorizaciones
+Mantenimiento de cuentas de intermediario-TOOperacionMantenimientoCuentasIn
+Consulta de cuenta de intermediario-TOOperacionConsultaCuentasIn
+Mantenimiento de cuentas de coaseguro-TOOperacionMantenimientoCuentasCg
+C.cta.coas.-TOOperacionConsultaCuentasCg
+Mantenimiento de cuentas de reaseguro-TOOperacionMantenimientoCuentasRe
+Consulta de cuenta de reaseguro-TOOperacionConsultaCuentasRe
+Traspasos sobre cuentas de terceros-TOOperacionTraspasosSobreCuentas
+Movimientos manuales sobre cuentas de terceros-TOOperacionMovimientosManuales
+Mantenimiento de plantillas deasientos contables-TOOperacionMttoPlantillas
+Alta de plantilla de asientos contables-TOOperacionAltaPlantillas
+Consulta de apunte contable-TOOperacionConsultaApuntes
+Consulta de plantilla de asientos contables-TOOperacionConsultaPlantillas
+Petición de cálculo de provisiones técnicas-TOOperacionPeticionCalculoPT
+Confirmación de cálculo de provisiones técnicas-TOOperacionPeticionConfirmacionPT
+Listado apuntes manuales coaseguro-TOOperacionListadoApuntesManualCg
+Listado traspasos coaseguro-TOOperacionListadoTraspasosCg
+Listado remesas coaseguro-TOOperacionListadoRemesasCg
+Reclasificacion Licitada-TONOperacionReclasificacionLicitada
+Mantenimiento Ctas. Licitacion-TONOperacionMttoCtasLicitacion
+Mantenimiento de reintegros-TOOperacionMantReintegros
+Listado de cuentas de coaseguro-TOOperacionListadoCuentasCg
+Mantenimiento de cobros-TOOperacionGestionCobros
+Listado Facturas Coaseguro-TOOperacionListadoFacturasCoaseguro
+Listado Cuentas Reaseguro-TOOperacionListadoCuentasReaseguro
+Listado Saldos Cuenta Técnica-TOOperacionListadoSaldoCtaTecnica
+Análisis de errores en procesosde contabilidad-TOOperacionAnalisisError
+Consulta del proceso contable-TOOperacionConsProcContable
+Consulta de referencias contables-TOOperacionConsRefeConta
+Mantenimiento  Rechazos de Transferencia-TOOperacionGestionInternaPagos
+Mantenimiento cob.interm.-TOOperacionGestionCobros
+Consulta de cobro de intermediario-TOOperacionConsultaCobros
+Cancelación agrupación chequessiniestros-TOOperacionAnulaAgrupacion
+Autorización pagos-TOOperacionAutorizacionPagos
+Cobro recup.-TOOperacionCobrosReintegros
+Consulta PPA-TOOperacionBusquedaPPA
+Mantenimiento PPAs-TOOperacionMttoPPA
+Informes de balanza PPA's-TONOperacionInformeBalanza
+Mantenimiento de conceptos-TONOperacionAdministracionConceptos
+Mantenimiento fichas/relaciones-TONOperacionFR
+Mantenimiento parámetros de fondeo-TONOperacionParametrosFondeo
+Consulta de reembolsos generados-TONOperacionGeneracionReembolsoAdministradores
+Generación de reembolso-TONOperacionGeneracionReembolsoOperativos
+Flujo de efectivo de pago-TONOperacionEntregaChequeAdministradores
+Entrega de cheques-TONOperacionEntregaChequeOperativos
+Corte de caja-TONOperacionCorteCaja
+Corte de oficina-TONOperacionCorteOficina
+Flujo de efectivo de cobro-TONOperacionFlujoEfectivoCobro
+Otros pagos-TONOperacionOtrosPagos
+Otros cobros-TONOperacionOtrosCobros
+Autorización otros pagos-TONOperacionAutorizacionPagos
+Agrupación de cheques-TONOperacionActualizacionPagos
+Apertura de caja-TONOperacionBusquedaCajas
+Otros pagos especial-TONOperacionOtrosPagosEsp
+Anulación agrupación cheques-TOOperacionAnulaAgrupacionTNO
+Control del proceso de contabilidad-TOOperacionControlProcesoContabilizacion
+Mantenimiento de recuperaciones-TOOperacionMttoReintegrosSI
+Emisión de pago de reaseguro-TOOperacionPagosReaseguro
+Emisión de pago de coaseguro-TOOperacionPagosCoaseguro
+Emisión de pago distribuido-TOOperacionPagoDistribuido
+Cobro de reaseguro-TOOperacionCobrosReaseguro
+Cobro de coaseguro-TOOperacionCobrosCoaseguro
+Cobro intermediarios-TOOperacionCobrosIntermediarios
+Emisión pago interm.-TOOperacionPagosIntermediarios
+Mantenimiento de remesas de transferencia-TOOperacionMttoRemesaTr
+Devolución de transferencia-TOOperacionMttoTransferencia
+Alta de remesa de transferencia-TOOperacionAltaRemesaTr
+Consulta de remesa de transferencia-TOOperacionConsultaRemesaTr
+Mantenimiento de pagos de coaseguro / reaseguro-TOOperacionMttoPagosSiniestrosCR
+Consulta de pago de coaseguro /reaseguro-TOOperacionConsPagosSiniestrosCR
+Aut.coas./reas.-TOOperacionAutorizacionCR
+Autorización de pago-TOOperacionAutorizacionAdm
+Mantenimiento pag.interm.-TOOperacionMttoPagosAdm
+Consulta de pago de intermediarios-TOOperacionConsPagosAdm
+Mantenimiento de cobros de coaseguro / reaseguro-TOOperacionMttoCobrosCR
+Consulta de cobro de coaseguro/ reaseguro-TOOperacionConsCobrosCR
+Mantenimiento especial de cobros-TOOperacionMantEspCobros
+Autorizacion Pago Dividendos-TONOperacionAutorizacionPagosDividendos
+Orden de Pago dividendo-TONOperacionOrdenPagosDividendos
+Consulta Orden de pago dividendos-TONOperacionConsultaOrdenPagosDividendos
+Mantenimiento  Orden de pago dividendos-TONOperacionMttoOrdenPagosDividend
+Adm  conceptos-TONOperacionAdministracionConceptos
+Liquidación de cuentas de reaseguro-TOOperacionLiquidacionReaseguro
+Liquidacion cuentas coaseguro-TOOperacionLiquidacionCoaseguro
+Mtto liquidacion cuentas coaseguro-TOOperacionMttoLiquidacionCoaseguro
+Consulta liquidacion cuentas coaseguro-TOOperacionConsultaLiquidacionCoaseguro
+Mantenimiento  liquidación cuentas reaseguro-TOOperacionMttoLiquidacionReaseguro
+Consulta liquidación cuenta reaseguro-TOOperacionConsultaLiquidacionReaseguro
+Impresión masiva de cheques-TOOperacionImpresionCheques
+Mantenimiento tipo de cambio-TOOperacionMttoTipoCambio
+Mantenimiento números cheque-TOOperacionMantenimientoNumerosCheques
+Consulta número cheque-TOOperacionConsultaNumerosCheques
+Aut. pagos siniestros ctrol. reclamos-TOOperacionAutorizacionReaseguro
+Pago especial siniestro distribuido-TOOperacionPagoDistribuidoEsp
+Pago especial de siniestro-TOOperacionPagosEsp
+Pago especial intermediario-TOOperacionPagosIntermediariosEsp
+Cobro especial intermediario-TOOperacionCobrosIntermediariosEs
+Cobro especial de recuperaciones-TOOperacionCobrosReintegrosEs
+Agrupación de cheques de intermediario-TOOperacionActualizacionPagosIntermediarios
+Agrupación cheques coaseguro /reasegruo-TOOperacionActualizacionPagosCORE
+Cancelación de agrupación de cheques de intermediario-TOOperacionAnulaAgrupacionIntermediarios
+Anulación agrupación cheques coaseg/reaseg-TOOperacionAnulaAgrupacionCORE
+Respuesta envío bancario-TOOperacionRespEnvioBanc
+Consulta referencia de carga-TOOperacionConsultaReferenciaCarga
+Solicitud de carga-TOOperacionSolicitudCarga
+Consulta resultado de carga-TOOperacionConsultaResultadoCarga
+Detalle de recibos a liquidar-TOOperacionDetalleRecibos
+Detalle de medios de cobro-TOOperacionDetalleMediosCobro
+Incidencias en el cobro-TOOperacionIncidenciasCobro
+Mantenimiento especial de pagos-TOOperacionMantEspPagos
+Cobro masivo de intermediarios-TOOperacionCobroMasivoInt
+Consulta de tipo de cambio-TOOperacionConsultaTipoCambio
+Listado PPAs por estruc. Comercial y negocio-TOOperacionReportePPAEstrucCom
+Alta de remesa de transferenciade UDIS-TOOperacionAltaRemesaUDIS
+Actualización Cuenta Bancaria Seguros Banamex-TOOperacionMantenimientoCuentaSeguroBanamex
+Consulta de Referencias CMC-TOOperacionVentanaExtractoReferenciaCMCLista
